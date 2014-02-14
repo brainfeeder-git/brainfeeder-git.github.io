@@ -8,6 +8,12 @@ layout: default
 
   {{ content }}
 
+  <ul class="tags post-tags cf">
+    {% for tag in page.tags %}
+    <li><a href="/search/?tags={{ tag }}">{{ tag | downcase }}</a></li>
+    {% endfor %}
+  </ul>
+
     <div id="disqus_thread"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
