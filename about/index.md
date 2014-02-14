@@ -3,4 +3,7 @@ layout: page
 title: About
 ---
 
-Nothing yet :(
+# br@1nfeeder
+
+## contact
+brainfeeder@me.com
