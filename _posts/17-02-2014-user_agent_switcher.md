@@ -14,7 +14,7 @@ tags: firefox
 
 ### 적용방법
 
-<img src=http://brainfeeder-git.github.io/upload/2014-02-17_user-agent.png width=650>
+<img src=http://brainfeeder-git.github.io/upload/2014-02-17_user-agent.png width=700>
 
 1. User-Agent Switcher 아이콘 클릭 후 **Edit User Agent** 선택
 2. **Import**에서 다운받은 User-Agent 목록 선택 후 확인
