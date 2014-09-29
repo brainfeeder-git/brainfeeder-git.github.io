@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SQL Injection Cheatsheet
+title: SQL Injection Cheat Sheet
 category: document
 tags: SQL
 ---
