@@ -10,8 +10,9 @@ tags: firefox
 
 [다운로드](https://addons.mozilla.org/ko/firefox/addon/user-agent-switcher)
 
-[User-Agent 목록](http://techpatterns.com/forums/about304.html)
-
+[최신 User-Agent 목록](http://techpatterns.com/forums/about304.html)
+<br>
+<br>
 ### 적용방법
 
 <img src=http://brainfeeder-git.github.io/upload/2014-02-17_user-agent.png width=700>
