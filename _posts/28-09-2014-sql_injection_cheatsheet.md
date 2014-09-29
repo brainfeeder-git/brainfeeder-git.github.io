@@ -5,7 +5,7 @@ category: document
 tags: SQL
 ---
 
-<img src=http://brainfeeder-git.github.io/upload/2014-09-28_sql.jpg width=700>
+<img src=http://brainfeeder-git.github.io/upload/2014-09-28_sql.png width=700>
 
 ### 소개
 Websec 에서 제공하는 [The SQL Injection Knowledge Base](http://websec.ca/kb/sql_injection) 번역 자료
