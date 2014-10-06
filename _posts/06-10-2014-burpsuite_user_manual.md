@@ -2,7 +2,7 @@
 layout: post
 title: BurpSuite User Manual
 category: document
-tags: SQL
+tags: tool
 ---
 
 <img src=http://brainfeeder-git.github.io/upload/2014-10-06_burpsuite.png width=700>
